@@ -64,6 +64,8 @@ ReactDOM.render(
 ## Usage
 Logo após você rodar o comando do create react-app
 
+![v1](https://user-images.githubusercontent.com/17007124/115119375-6f7b9d80-9f7e-11eb-8e87-0d1f4a20fe33.gif)
+
 ### Exemplo
 ```sh
 yarn create react-app seu-projeto --template typescript
