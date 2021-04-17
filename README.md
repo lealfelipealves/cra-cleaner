@@ -20,7 +20,7 @@ Esse script executa a limpeza de arquivos desnecessários no seu projeto react, 
 - src/App.tsx
 - src/index.tsx
 
-### public/index.html
+#### public/index.html
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -36,7 +36,7 @@ Esse script executa a limpeza de arquivos desnecessários no seu projeto react, 
 </html>
 ```
 
-### public/App.tsx
+#### public/App.tsx
 ```tsx
 export function App() {
   return (
@@ -47,7 +47,7 @@ export function App() {
 }
 ```
 
-### public/Index.tsx
+#### public/Index.tsx
 ```tsx
 import React from 'react';
 import ReactDOM from 'react-dom';
@@ -61,12 +61,13 @@ ReactDOM.render(
 );
 ```
 
-## Usage
+## Uso
 Logo após você rodar o comando do create react-app
 
-![v1](https://user-images.githubusercontent.com/17007124/115119375-6f7b9d80-9f7e-11eb-8e87-0d1f4a20fe33.gif)
-
 ### Exemplo
+
+![cra-cleaner](https://user-images.githubusercontent.com/17007124/115121475-52000100-9f89-11eb-9e7f-241dc6acf169.gif)
+
 ```sh
 yarn create react-app seu-projeto --template typescript
 ```
